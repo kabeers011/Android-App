@@ -1,8 +1,10 @@
 # Android-App
 
 App Name :- 
-Author : Author Url: Kbizsoft
-Short Description :  https://kbizsoft.com/
+Author : Kbizsoft
+Author Url: https://kbizsoft.com/
+
+Short Description : 
 
 
 key Fetaures:-
@@ -13,4 +15,4 @@ Advnatges:-
 
 
 
-Desription:-
+Description:-
