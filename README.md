@@ -11,7 +11,7 @@ key Fetaures:-
 
 
 
-Advnatges:-
+Advantages:-
 
 
 
