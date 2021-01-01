@@ -1,9 +1,13 @@
 # Android-App
 
 App Name :- Readers are Leaders
+
 Author : Kbizsoft
+
 Author Url: https://kbizsoft.com/
+
 app Url : https://play.google.com/store/apps/details?id=com.kbizsoft.englishlearning
+
 Short Description :  Teach English   Vocabulary, Reading Fluency via voice videos and fun challenges
 
 key Fetaures:- Student Login and teacher login system.
